@@ -1,3 +1,6 @@
+
+<img width="1393" height="855" alt="Screenshot 2026-04-01 at 10 57 58" src="https://github.com/user-attachments/assets/0a99dc42-ef3f-45da-8ab6-428d50d9c655" />
+
 # AudioGen Local Console
 
 A local Flask web app for generating short sound effects from text prompts with Meta AudioGen / AudioCraft, reviewing a queue of jobs, and previewing the generated WAV files in the browser.
